@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Ftr%2Fphoto%2Fprogramming-code-abstract-technology-background-software-developer-computer-script-banner-376563680.html&psig=AOvVaw2XwIY2xKGMpZipKGlJ97yV&ust=1718771016696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCHqJGn5IYDFQAAAAAdAAAAABAJ)
+![Header](github-header-image)
 <h1 align="center">Hi 👋, I'm Ahmet Gayıp</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
