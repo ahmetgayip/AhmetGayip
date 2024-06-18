@@ -1,4 +1,4 @@
-![Header](github-header-image)
+![MasterHead](https://prnt.sc/UFjyzIowOVmW)
 <h1 align="center">Hi 👋, I'm Ahmet Gayıp</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
